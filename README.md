@@ -11,10 +11,12 @@
 | [0075-sort-colors](https://github.com/Harsh-shuklaa/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Harsh-shuklaa/leetcode/tree/master/0283-move-zeroes) |
+| [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
