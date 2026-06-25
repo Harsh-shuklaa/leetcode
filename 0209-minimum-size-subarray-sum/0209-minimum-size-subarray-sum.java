@@ -5,16 +5,17 @@ class Solution {
          int sum= 0;
          int result = Integer.MAX_VALUE;
           
-          while(high<nums.length){
-              sum = sum +nums[high];
-             while(sum>=target){
-                int length = high-low+1;
-                result = Math.min(result,length);
-                sum = sum-nums[low];
+         for(high = 0 ;high<nums.length;high++){
+            sum +=nums[high];
+            while(sum >= target){
+                int len = high-low+1;
+                result= Math.min(len,result);
+                sum-=nums[low];
                 low++;
-             }
-             high++;
-          }
+
+            }
+
+         }
           return (result == Integer.MAX_VALUE) ? 0:result;
              
     }
