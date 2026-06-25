@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-shuklaa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-shuklaa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-shuklaa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -54,4 +56,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-shuklaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Harsh-shuklaa/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
